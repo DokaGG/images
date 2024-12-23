@@ -1,48 +1,48 @@
 {
     "/old-url-1": "/new-url-1",
     "/old-url-2": "/new-url-2",
-    "/404-url": "/"
-    "/2012/01/?amp=1": "/"
-    "/2012/01/?m=1": "/"
-   "/2011/?m=1": "/"
-   "/2010/?m=1": "/"
-   "/2012/01/": "/"
-   "/2016/04/": "/"
-   "/2017/12/": "/"
-"/2017/12/?m=1": "/"
-"/2021/03/": "/"
-"/2021/03/?m=1": "/"
-"/2018/05/": "/"
-"/2018/05/?m=1": "/"
-"/2017/04/?m=1": "/"
-"/2016/02/?m=1": "/"
-"/2017/04/": "/"
-"/2016/02/": "/"
-"/2010/06/": "/"
-"/2010/06/?m=1": "/"
-"/2021/07/": "/"
-"/2021/07/?m=1": "/"
-"/2011/": "/"
-"/2010/": "/"
-"/2012/?m=1": "/"
-"/2018/11/?m=1": "/"
-"/2012/03/?m=1": "/"
-"/2016/03/?m=1": "/"
-"/2013/01/?m=1": "/"
-"/2018/?m=1": "/"
-"/2013/": "/"
-"/product/laptop-yoga-14-80jh0035ge-w8-1/": "/"
-"/shop/?min_price=0&max_price=500&orderby=date&filter_color=pink,yellow&stock_status=in_stock&et_columns-count=1&filter_brand=apple,huaweii&filter_cat=ipad-tablets,tv-audio,portable-speakers,audio-electronics": "/"
-"/shop/?orderby=date&filter_color=blue&et_columns-count=6&filter_cat=ipad-tablets,tv-audio&min_price=1000&max_price=1500": "/"
-"/product-category/computers/?et_columns-count=4&filter_brand=envato&filter_cat=cell-phones,computers&stock_status=out_of_stock": "/"
-"/product-category/computers/?et_columns-count=6&filter_brand=oculus-rift,envato&filter_cat=cell-phones,ipad-tablets,portable-speakers,wearable-technology,daily-deals,computers&filter_color=brown": "/"
-"/shop/?min_price=0&max_price=500&orderby=date&filter_color=pink&filter_cat=ipad-tablets,tv-audio&filter_brand=envato,apple,oculus-rift": "/"
-"/shop/?min_price=0&max_price=500&orderby=date&filter_color=blue&stock_status=out_of_stock,in_stock&et_columns-count=5&filter_cat=ipad-tablets,tv-audio,portable-speakers,wearable-technology,plant&filter_brand=envato,apple,oculus-rift": "/"
-"/shop/?min_price=0&max_price=500&orderby=date&stock_status=in_stock&et_columns-count=5&filter_cat=ipad-tablets,audio-electronics,daily-deals&filter_brand=htc": "/"
-"/shop/?min_price=0&max_price=500&orderby=date&rating_filter=5,3,4&filter_color=grey&et_columns-count=1&filter_cat=ipad-tablets,computers,smart-home": "/"
-"/product-category/computers/?min_price=1000&max_price=1500&filter_color=blue,dark&filter_brand=oculus-rift&filter_cat=cell-phones,ipad-tablets,daily-deals,wearable-technology,camera-drone,computers": "/"
-"/shop/?min_price=0&max_price=500&orderby=date&stock_status=in_stock&et_columns-count=1&filter_cat=ipad-tablets,daily-deals&filter_color=grey": "/"
-"/product-category/computers/?filter_color=blue,pink&et_columns-count=5&filter_cat=cell-phones,computers,ipad-tablets&min_price=1500&max_price=2000": "/"
+    "/404-url": "/",
+    "/2012/01/?amp=1": "/",
+    "/2012/01/?m=1": "/",
+   "/2011/?m=1": "/",
+   "/2010/?m=1": "/",
+   "/2012/01/": "/",
+   "/2016/04/": "/",
+   "/2017/12/": "/",
+"/2017/12/?m=1": "/",
+"/2021/03/": "/",
+"/2021/03/?m=1": "/",
+"/2018/05/": "/",
+"/2018/05/?m=1": "/",
+"/2017/04/?m=1": "/",
+"/2016/02/?m=1": "/",
+"/2017/04/": "/",
+"/2016/02/": "/",
+"/2010/06/": "/",
+"/2010/06/?m=1": "/",
+"/2021/07/": "/",
+"/2021/07/?m=1": "/",
+"/2011/": "/",
+"/2010/": "/",
+"/2012/?m=1": "/",
+"/2018/11/?m=1": "/",
+"/2012/03/?m=1": "/",
+"/2016/03/?m=1": "/",
+"/2013/01/?m=1": "/",
+"/2018/?m=1": "/",
+"/2013/": "/",
+"/product/laptop-yoga-14-80jh0035ge-w8-1/": "/",
+"/shop/?min_price=0&max_price=500&orderby=date&filter_color=pink,yellow&stock_status=in_stock&et_columns-count=1&filter_brand=apple,huaweii&filter_cat=ipad-tablets,tv-audio,portable-speakers,audio-electronics": "/",
+"/shop/?orderby=date&filter_color=blue&et_columns-count=6&filter_cat=ipad-tablets,tv-audio&min_price=1000&max_price=1500": "/",
+"/product-category/computers/?et_columns-count=4&filter_brand=envato&filter_cat=cell-phones,computers&stock_status=out_of_stock": "/",
+"/product-category/computers/?et_columns-count=6&filter_brand=oculus-rift,envato&filter_cat=cell-phones,ipad-tablets,portable-speakers,wearable-technology,daily-deals,computers&filter_color=brown": "/",
+"/shop/?min_price=0&max_price=500&orderby=date&filter_color=pink&filter_cat=ipad-tablets,tv-audio&filter_brand=envato,apple,oculus-rift": "/",
+"/shop/?min_price=0&max_price=500&orderby=date&filter_color=blue&stock_status=out_of_stock,in_stock&et_columns-count=5&filter_cat=ipad-tablets,tv-audio,portable-speakers,wearable-technology,plant&filter_brand=envato,apple,oculus-rift": "/",
+"/shop/?min_price=0&max_price=500&orderby=date&stock_status=in_stock&et_columns-count=5&filter_cat=ipad-tablets,audio-electronics,daily-deals&filter_brand=htc": "/",
+"/shop/?min_price=0&max_price=500&orderby=date&rating_filter=5,3,4&filter_color=grey&et_columns-count=1&filter_cat=ipad-tablets,computers,smart-home": "/",
+"/product-category/computers/?min_price=1000&max_price=1500&filter_color=blue,dark&filter_brand=oculus-rift&filter_cat=cell-phones,ipad-tablets,daily-deals,wearable-technology,camera-drone,computers": "/",
+"/shop/?min_price=0&max_price=500&orderby=date&stock_status=in_stock&et_columns-count=1&filter_cat=ipad-tablets,daily-deals&filter_color=grey": "/",
+"/product-category/computers/?filter_color=blue,pink&et_columns-count=5&filter_cat=cell-phones,computers,ipad-tablets&min_price=1500&max_price=2000": "/",
 "/product-category/computers/?filter_color=brown,pink&et_columns-count=1&filter_cat=cell-phones,smart-home&sale_status=1": "/"
   }
   
