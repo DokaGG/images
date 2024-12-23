@@ -1,5 +1,5 @@
 (async function () {
-    const urlMappingsUrl = "https://raw.githubusercontent.com/your-username/your-repo/main/url-mappings.json";
+    const urlMappingsUrl = "https://raw.githubusercontent.com/DokaGG/images/refs/heads/main/url-mappings.json";
     
     try {
       const response = await fetch(urlMappingsUrl);
